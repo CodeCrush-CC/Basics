@@ -8,4 +8,4 @@ All programs are error free and are compiled and then executed in MS-Dos Box ver
 
 I don't make recommendations; that would be too much like taking sides in commercial wars. Also, I don't know every C++ compiler; there are simply too many "out there".It is not neccesary to use DosBox/Turbo C++ compiler, one can choose the compiler of their own interest such as Code Blocks, Atom, Visual studio, Dev C++, Xcode(Mac), Clang(linux)
 
-Contact me through mail (if required): tusharmalhotra494@gmail.com
+Contact me through mail (if required): code.n.crush@gmail.com
